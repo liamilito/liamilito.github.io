@@ -10,5 +10,4 @@ On [LinkedIn](https://www.linkedin.com/in/liamilito), I am **"an energetic syste
 
 In [local sports journalism](https://haligonia.ca/huskies-on-haligonia-nationally-ranked-acadia-reloaded-huskies-tip-off-the-aus-regular-season-28486/), I'm a **"workhorse"** and a key defender in the post"
 
-<div text-align:center;><img src="/assets/img/lia-photo.jpg" alt="headshot of Lia Milito" width="40%">
-</div>
+<img src="/assets/img/lia-photo.jpg" alt="headshot of Lia Milito" width="40%">
