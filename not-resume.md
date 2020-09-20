@@ -22,11 +22,11 @@ subtitle: A not-resume of things I've done.
 
 * **2010**: Wish I studied computer science.
 
-* **2010-2012**: Work in recruitment and admissions at King's. Visit lots of high schools, never sure until I arrive whether I'll be speaking to a couple kids in an office or the entire school in theh auditorium. Consequently get really comfortable with public speaking.
+* **2010-2012**: Work in recruitment and admissions at King's. Visit lots of high schools, never sure until I arrive whether I'll be speaking to a couple kids in an office or the entire school in the auditorium. Consequently get really comfortable with public speaking.
 
 * **2011**: While working in recruitment, get so frustrated by the structure of the office's shared drive that I volunteer to spend two weeks of evenings implementing a redesign. When I learn about UX design years later, feel proud that I used some research and testing best practices without knowing it at the time.
 
-* **2012-2013**: Help open a guesthouse just outside of Kathmandu. Took care of bookings, financial management, welcoming guests, and making sure we had enough water in the rooftop cistern. Watched [Bakara](https://www.youtube.com/watch?v=LETtcYGc__4&ab_channel=homocinematicus), [The Radiant Child](https://www.imdb.com/title/tt1568335/), and [RiP!](https://en.wikipedia.org/wiki/RiP!:_A_Remix_Manifesto). All three blew my mind.
+* **2012-2013**: Help open a guesthouse just outside of Kathmandu. Took care of bookings, financial management, welcoming guests, and making sure we had enough water in the rooftop cistern. Watched [Baraka](https://www.youtube.com/watch?v=LETtcYGc__4&ab_channel=homocinematicus), [The Radiant Child](https://www.imdb.com/title/tt1568335/), and [RiP!](https://www.nfb.ca/film/rip_a_remix_manifesto/). All three blew my mind.
 
 * **2014**: Tore my ACL. It hurt a lot.
 
