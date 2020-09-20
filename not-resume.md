@@ -11,7 +11,7 @@ subtitle: A not-resume of things I've done.
 * 2003: Read Ralph Waldo Emerson for the first time. Struck by the line "a foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines." Discover we share a birthday. Decide this is Very Meaningful.
 * 2004: Find the [King's website](https://ukings.ca/), immediately know I want to be there.
 * 2005-2008: Change major from physics to philosophy to [contemporary studies](https://ukings.ca/area-of-study/contemporary-studies/). Write undergrad thesis on a branch of anarchism. 
-* 2009: Named female athlete of the year at King's. It feels pretty cool.
+* 2009: Named female athlete of the year at King's. It feels pretty cool.
 * 2010: Wish I studied computer science.
 * 2010-2012: Work in recruitment and admissions at King's. Visit lots of high schools, never sure until I arrive whether I'll be speaking to a couple kids in an office or the entire school in theh auditorium. Consequently get really comfortable with public speaking.
 * 2011: While working in recruitment, get so frustrated by the structure of the office's shared drive that I volunteer to spend two weeks of evenings implementing a redesign. When I learn about UX design years later, feel proud that I used some research and testing best practices without knowing it at the time.
