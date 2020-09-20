@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who am I?
+title: Who?
 subtitle: A compilation of characterizations
 ---
 
